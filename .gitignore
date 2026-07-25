@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.streamlit/secrets.toml
+private_input/*
+!private_input/README.txt
+*.pdf
+*.xlsx
+*.xls
+*.tmp
+*.log
