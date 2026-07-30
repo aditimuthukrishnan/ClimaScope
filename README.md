@@ -51,15 +51,4 @@ The repository contains illustrative indexed market data only. The BSRIA-based w
 - Carrier India data-centre solutions: https://www.carrier.com/commercial/en/in/data-centers/
 - Carrier Midea India room AC catalogue: https://carriermideaindia.com/product-category/carrier-room-air-conditioners/
 
-## Resume positioning
 
-**Project: India HVAC Market & Carrier Portfolio Prioritisation**
-
-Built a Streamlit decision-support dashboard to rank HVAC product categories using market size, growth, and energy-efficiency relevance, map Carrier's public product portfolio, and translate demand signals into supply-chain, localisation, and process-improvement priorities.
-
-## Interview explanation
-
-- The app separates the scoring logic from the assumptions through adjustable weights.
-- Market categories are mapped to public Carrier product families rather than claiming access to internal product strategy.
-- Private BSRIA data can be analysed locally without publishing proprietary figures.
-- The next extension would add monthly demand, inventory, supplier performance, manufacturing quality, and energy-consumption data.
